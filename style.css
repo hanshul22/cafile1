@@ -1,0 +1,57 @@
+.main{
+    color: white;
+}
+
+.left{
+    background-color: black;
+    display: block;
+    justify-content: flex-start;
+
+}
+
+.right{
+    background-color:#212121 ;
+}
+ 
+.g{
+    height: 30px;
+    width: 30px;
+}
+.top{
+    display: flex;
+    justify-content: space-between;
+    padding: 5%;
+}
+.y{
+    height: 60px;
+    width: 80;
+}
+.topr{
+    display: flex;
+    border: 1px #212121 solid;
+    border-radius: 50%;
+}
+.hhj{
+    height: 30px;
+    width: 30px;
+}
+#aunty{
+    border: 1px #212121 solid;
+    border-radius: 50%;
+}
+.m{
+background: #303030;
+}
+.likedsongs{
+    display: flex;
+}
+.button{
+    background-color: #1ED760;
+}
+*{
+    background-color: #303030;
+}
+.footer{
+display: flex;
+justify-content: space-around;
+}
